@@ -1,9 +1,9 @@
 ### Hi there, welcome to my github profile 👋
 🌱 Im Android Developer 😄
 
--[My Website](https://mtalaeiiapi.ir)
--[My Telegram](https://t.me/mtalaeii)
--[My Twitter](https://twitter.com/mtalaeii?s=09/)
+- [My Website](https://mtalaeiiapi.ir)
+- [My Telegram](https://t.me/mtalaeii)
+- [My Twitter](https://twitter.com/mtalaeii?s=09/)
 - 🔭 I’m currently working on [Movies Api App](https://github.com/mtalaeii/movies-api)
 
 <!--
