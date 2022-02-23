@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, welcome to my github profile 👋
+🌱 Im Android Developer 😄
+
+-[My Website](https://mtalaeiiapi.ir)
+-[My Telegram](https://t.me/mtalaeii)
+-[My Twitter](https://twitter.com/mtalaeii?s=09/)
+- 🔭 I’m currently working on [Movies Api App](https://github.com/mtalaeii/movies-api)
 
 <!--
 **mtalaeii/mtalaeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,6 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-   Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Mahdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtalaeii)](https://mtalaeiiapi.ir)
